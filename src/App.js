@@ -9,6 +9,7 @@ function App() {
   const [showResults, setShowResults] = useState(false);
   const [timeLeft, setTimeLeft] = useState(3600); // 60 Minuten in Sekunden
   const [quizStarted, setQuizStarted] = useState(false);
+  const [incorrectQuestions, setIncorrectQuestions] = useState([]);
 
   // Lade alle Fragen aus der JSON-Datei
   useEffect(() => {
@@ -36,8 +37,20 @@ function App() {
 
   // Antwort verarbeiten
   const handleAnswerClick = (answer) => {
-    if (answer === quizQuestions[currentQuestionIndex].correct) {
+    const currentQuestion = quizQuestions[currentQuestionIndex];
+    if (answer === currentQuestion.correct) {
       setScore(score + 1);
+    } else {
+      // Füge die falsch beantwortete Frage zur Übersicht hinzu
+      setIncorrectQuestions([
+        ...incorrectQuestions,
+        {
+          question: currentQuestion.question,
+          answers: currentQuestion.answers,
+          selected: answer,
+          correct: currentQuestion.correct,
+        },
+      ]);
     }
     const nextIndex = currentQuestionIndex + 1;
     if (nextIndex < quizQuestions.length) {
@@ -54,6 +67,10 @@ function App() {
     return `${minutes}:${secs < 10 ? "0" : ""}${secs}`;
   };
 
+  // Bestanden oder nicht bestanden prüfen
+  const resultText = score >= 40 ? "Bestanden" : "Nicht bestanden";
+  const resultColor = score >= 40 ? "green" : "red";
+
   return (
     <div className="App">
       <h1>Sachkundeprüfungs Terraristik §2</h1>
@@ -67,6 +84,27 @@ function App() {
           <p>
             Du hast {score} von {quizQuestions.length} Punkten erreicht.
           </p>
+          <h3 style={{ color: resultColor, fontWeight: "bold" }}>{resultText}</h3>
+          {incorrectQuestions.length > 0 && (
+            <div className="incorrect-questions">
+              <h3>Falsch beantwortete Fragen:</h3>
+              <ul>
+                {incorrectQuestions.map((item, index) => (
+                  <li key={index} className="question-overview">
+                    <strong>Frage:</strong> {item.question} <br />
+                    <strong>Antwortmöglichkeiten:</strong>
+                    <ul>
+                      {item.answers.map((answer, idx) => (
+                        <li key={idx}>{answer}</li>
+                      ))}
+                    </ul>
+                    <strong>Deine Antwort:</strong> {item.selected} <br />
+                    <strong>Korrekte Antwort:</strong> {item.correct}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
           <button onClick={() => window.location.reload()}>Quiz neu starten</button>
         </div>
       ) : (
@@ -89,4 +127,3 @@ function App() {
 }
 
 export default App;
-

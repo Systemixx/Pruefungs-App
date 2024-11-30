@@ -68,5 +68,246 @@
       "Hautnähte nach Verletzungen."
     ],
     "correct": "Entfernung von abgestorbenen Panzerteilen bei Schildkröten."
-  }
+  },
+ {
+  "id": 8,
+  "question": "Welche der Eingriffe dürfen bei Reptilien oder Amphibien ohne (medikamentöse) Betäubung vorgenommen werden?",
+  "answers": [
+    "Amputationen zur Kennzeichnung.",
+    "Eingriffe, die vergleichbar beim Menschen ohne Betäubung durchgeführt werden.",
+    "Operative Eingriffe zur Beseitigung von Legenot."
+  ],
+  "correct": "Eingriffe, die vergleichbar beim Menschen ohne Betäubung durchgeführt werden."
+},
+{
+    "id": 9,
+    "question": "Wer darf bei Reptilien und Amphibien eine (medikamentöse) Betäubung durchführen?",
+    "answers": [
+      "Jeder, der dafür Sachkunde erworben hat.",
+      "Ausschließlich der Tierarzt.",
+      "Jeder, der sich die Durchführung einer Betäubung zutraut."
+    ],
+    "correct": "Ausschließlich der Tierarzt."
+  },
+  {
+    "id": 10,
+    "question": "Ein Tier ist unheilbar krank, leidet unter Schmerzen bzw. ist altersschwach, kann nur noch mühsam Nahrung aufnehmen oder sich fortbewegen. Wie verhält man sich?",
+    "answers": [
+      "Das Tier soll eines natürlichen Todes sterben, Leidens- oder Schmerzlinderung entspricht nicht dem natürlichen Sterben in der Natur und wird nicht durchgeführt.",
+      "Das Tier soll nicht unnötig leiden, ich töte es durch Einfrieren.",
+      "Das Tier soll nicht unnötig leiden, ich lasse es mit entsprechenden Medikamenten einschläfern."
+    ],
+    "correct": "Das Tier soll nicht unnötig leiden, ich lasse es mit entsprechenden Medikamenten einschläfern."
+  },
+  {
+    "id": 11,
+    "question": "Bei welcher Tiergruppe darf die Enthauptung ohne vorherige Betäubung als Tötungsmethode angewendet werden?",
+    "answers": [
+      "Kleinnager.",
+      "Kaninchen.",
+      "Hausgeflügel."
+    ],
+    "correct": "Hausgeflügel."
+  },
+  {
+    "id": 12,
+    "question": "Ein Tier ist unheilbar krank, leidet unter Schmerzen bzw. ist altersschwach, kann nur noch mühsam Nahrung aufnehmen oder sich fortbewegen. Wie verhält man sich?",
+    "answers": [
+      "Das Tier soll eines natürlichen Todes sterben, das Leiden oder die Schmerzen werden durch Medikamentengaben und entsprechende Pflege weitestgehend ausgeschaltet.",
+      "Das Tier soll eines natürlichen Todes sterben, Leidens- oder Schmerzlinderung entspricht nicht dem natürlichen Sterben in der Natur und wird nicht durchgeführt.",
+      "Das Tier soll nicht unnötig leiden, ich töte es durch Einfrieren."
+    ],
+    "correct": "Das Tier soll eines natürlichen Todes sterben, das Leiden oder die Schmerzen werden durch Medikamentengaben und entsprechende Pflege weitestgehend ausgeschaltet."
+  },
+  {
+    "id": 13,
+    "question": "Für welche Tierart ist in der Verordnung zum Schutz von Tieren im Zusammenhang mit der Schlachtung oder Tötung der Genickschlag als eine anerkannte Betäubungsmethode zugelassen?",
+    "answers": [
+      "Kleinnager.",
+      "Kaninchen.",
+      "Geflügel."
+    ],
+    "correct": "Geflügel."
+  },
+  {
+    "id": 14,
+    "question": "Welche Tötungsmethode ist für Reptilien als tierschutzgerecht zu bezeichnen?",
+    "answers": [
+      "Das Einfrieren ohne vorheriges Einschläfern durch Medikamente.",
+      "Das Einschläfern mit entsprechenden Medikamenten.",
+      "Reptilien können nur durch Erschlagen tierschutzgerecht getötet werden."
+    ],
+    "correct": "Das Einschläfern mit entsprechenden Medikamenten."
+  },
+  {
+    "id": 15,
+    "question": "§ 3 des Tierschutzgesetzes verbietet abschließend bestimmte Handlungen im Zusammenhang mit der Tierhaltung. Welche der folgenden Maßnahmen sind gestattet?",
+    "answers": [
+      "Einem Tier unter Anwendung von Zwang Futter einzuverleiben, weil es an anderes gewohnt und nicht gewillt ist, dieses Futter aufzunehmen.",
+      "Einem Tier Futter zu geben, das bei ihm erhebliche Schmerzen, Leiden oder Schaden hervorruft.",
+      "Einem Tier unter Anwendung von Zwang Futter einzuverleiben, weil es aus gesundheitlichen Gründen erforderlich ist."
+    ],
+    "correct": "Einem Tier unter Anwendung von Zwang Futter einzuverleiben, weil es aus gesundheitlichen Gründen erforderlich ist."
+  },
+  {
+  "id": 16,
+  "question": "§ 3 des Tierschutzgesetzes verbietet abschließend bestimmte Handlungen im Zusammenhang mit der Tierhaltung. Welche der folgenden Maßnahmen sind gestattet?",
+  "answers": [
+    "Ein gezüchtetes oder aufgezogenes Tier einer wildlebenden Art ohne Vorbereitung in freier Natur auszusetzen.",
+    "Ein nach Unfall vollständig genesenes Wildtier wieder auszusetzen.",
+    "Ein Tier, das in menschlicher Obhut gehalten wurde, auszusetzen, um ihm uneingeschränkte Freiheit zugewähren."
+  ],
+  "correct": "Ein nach Unfall vollständig genesenes Wildtier wieder auszusetzen."
+},
+{
+  "id": 17,
+  "question": "§ 3 des Tierschutzgesetzes verbietet abschließend bestimmte Handlungen im Zusammenhang mit der Tierhaltung. Welche der folgenden Maßnahmen sind gestattet?",
+  "answers": [
+    "Ein krankes Tier, für das ein Weiterleben mit nicht behebbaren Schmerzen oder Leiden verbunden ist, zur unverzüglichen schmerzlosen Tötung abzugeben.",
+    "Ein krankes Tier, für das ein Weiterleben mit nicht behebbaren Schmerzen oder Leiden verbunden ist, zur weiteren Haltung zu verkaufen.",
+    "Ein Tier zu einer Filmaufnahme, Schaustellung, Werbung oder ähnlichen Veranstaltung zu verwenden, wenn damit nur unerhebliche Schmerzen, Leiden oder Schäden verbunden sind."
+  ],
+  "correct": "Ein krankes Tier, für das ein Weiterleben mit nicht behebbaren Schmerzen oder Leiden verbunden ist, zur unverzüglichen schmerzlosen Tötung abzugeben."
+},
+{
+  "id": 18,
+  "question": "Man findet in der Zoofachhandlung ein Tier, das man gerne erwerben würde. Worauf muss man beim Kauf achten?",
+  "answers": [
+    "Der Zoohändler kennt den wissenschaftlichen Namen des Tieres und ist über den natürlichen Lebensraum und die daraus folgenden Haltungsbedingungen genau informiert.",
+    "Das Tier sollte handzahm sein und sofort Futter annehmen.",
+    "Es ist ein Nachzuchttier, und die Haltungsfaktoren im Terrarium der Zoohandlung zeigen an, dass es entgegen den Bedürfnissen von Wildfängen dieser Tierart, die Bedingungen im Terrarium eingestellt und abgeändert wurde."
+  ],
+  "correct": "Der Zoohändler kennt den wissenschaftlichen Namen des Tieres und ist über den natürlichen Lebensraum und die daraus folgenden Haltungsbedingungen genau informiert."
+},
+{
+  "id": 19,
+  "question": "Man entdeckt in der Zoohandlung ein unbekanntes Tier, das man erwerben möchte. Es scheint gesund zu sein. Kann man es erwerben, ohne über seine Bedürfnisse informiert zu sein?",
+  "answers": [
+    "Ja, ich kaufe spontan, es könnte sonst nicht mehr vorhanden sein.",
+    "Nein, vor jedem Neukauf werden zunächst die notwendigen Informationen eingeholt.",
+    "Ja, es wird gekauft, dann die notwendigen Informationen eingeholt."
+  ],
+  "correct": "Nein, vor jedem Neukauf werden zunächst die notwendigen Informationen eingeholt."
+},
+{
+  "id": 20,
+  "question": "Auf welchen Umstand sollte man beim Kauf eines Tieres und der damit verbundenen Verantwortung für das Tier besonders achten?",
+  "answers": [
+    "Auf den Kaufpreis, da das Ansehen des Tierhalters abhängig ist vom Preis des Tieres.",
+    "Auf das zu erwartende Lebensalter, da Exemplare einzelner Tierarten älter werden können als der Mensch.",
+    "Auf das Temperament der Tiere."
+  ],
+  "correct": "Auf das zu erwartende Lebensalter, da Exemplare einzelner Tierarten älter werden können als der Mensch."
+},
+{
+  "id": 21,
+  "question": "Welche Überlegungen sind vor dem Erwerb eines Tieres zwingend erforderlich?",
+  "answers": [
+    "Wie kann ich ohne Probleme das Tier wieder loswerden, wenn es mir zu viel Arbeit macht?",
+    "Bin ich bereit, ein Tier richtig zu pflegen und die nötigen Voraussetzungen bereitzustellen und zu erwerben?",
+    "Wie lassen sich die Geruchsbelästigungen in Grenzen halten?"
+  ],
+  "correct": "Bin ich bereit, ein Tier richtig zu pflegen und die nötigen Voraussetzungen bereitzustellen und zu erwerben?"
+},
+{
+  "id": 22,
+  "question": "Ist es richtig, dass:",
+  "answers": [
+    "Die Informationsvermittlung beim Kauf in der Regel für eine tierschutzgerechte Haltung von Terrarientieren reicht?",
+    "Bei einem schnellen Kaufentschluss die notwendigen Informationen ohne Nachteil für die Tiere erst im Nachhinein besorgt werden können?",
+    "Umfassende Informationen über die Bedürfnisse der Tiere vorab zwingend erforderlich sind?"
+  ],
+  "correct": "Umfassende Informationen über die Bedürfnisse der Tiere vorab zwingend erforderlich sind."
+},
+{
+  "id": 23,
+  "question": "Wer erwirbt das erforderliche Wissen und die Fähigkeit, Tiere nach ihren Bedürfnissen entsprechend zu pflegen?",
+  "answers": [
+    "Kontaktaufnahme mit Vereinen, erfahrenen Haltern und Züchtern, gute Fachbücher und Fachzeitschriften.",
+    "Ausschließlich durch Beobachtung der Tiere, da Terrarientiere sehr widerstandsfähig sind und bei Haltungsfehlern nicht gleich sterben.",
+    "Ausschließlich durch Informationen beim Kauf."
+  ],
+  "correct": "Kontaktaufnahme mit Vereinen, erfahrenen Haltern und Züchtern, gute Fachbücher und Fachzeitschriften."
+},
+{
+  "id": 24,
+  "question": "In menschlicher Obhut wird die Möglichkeit zur artgemäßen Bewegung der Tiere meist eingeschränkt. Welche Kriterien müssen eingehalten werden?",
+  "answers": [
+    "Die Einschränkung der artgemäßen Bewegung darf nur zu geringfügigen Schmerzen und nur zu geringfügigem vermeidbaren Schaden führen.",
+    "Die Einschränkung der artgemäßen Bewegung darf nicht zu Schmerzen, vermeidbaren Leiden oder Schäden führen.",
+    "Eine Einschränkung der artgemäßen Bewegung ist gemäß Tierschutzgesetz verboten."
+  ],
+  "correct": "Die Einschränkung der artgemäßen Bewegung darf nicht zu Schmerzen, vermeidbaren Leiden oder Schäden führen."
+},
+{
+  "id": 25,
+  "question": "Was ist ein vernünftiger Grund, ein Wirbeltier zu töten?",
+  "answers": [
+    "Tötung unheilbar kranker Tiere.",
+    "Tötung überzähliger Tiere.",
+    "Tötung wegen Aufgabe der Tierhaltung."
+  ],
+  "correct": "Tötung unheilbar kranker Tiere."
+},
+{
+  "id": 26,
+  "question": "Was ist ein vernünftiger Grund, ein Wirbeltier zu töten?",
+  "answers": [
+    "Tötung wegen Platzmangel.",
+    "Tötung lebensschwach geborener Tiere.",
+    "Tötung, um Kosten für tierärztliche Behandlungen zu sparen."
+  ],
+  "correct": "Tötung lebensschwach geborener Tiere."
+},
+{
+  "id": 27,
+  "question": "Was ist ein vernünftiger Grund, ein Wirbeltier zu töten?",
+  "answers": [
+    "Tötung im Rahmen der Schädlingsbekämpfung.",
+    "Tötung, weil ein Tier als bedrohlich oder ekelerregend gilt.",
+    "Tötung, weil ein Tier als störend empfunden wird."
+  ],
+  "correct": "Tötung im Rahmen der Schädlingsbekämpfung."
+},
+{
+  "id": 28,
+  "question": "Was kann ein vernünftiger Grund sein, Tieren Schäden zuzufügen?",
+  "answers": [
+    "Zufügung eines Schadens durch Amputation von Zehengliedern o.ä. zur Kennzeichnung eines Tieres.",
+    "Zufügung eines Schadens durch Amputation eines Körperteils, wenn dadurch das Leben des Tieres gerettet wird.",
+    "Zufügung eines Schadens durch Amputation, um das Erscheinungsbild des Tieres zu verändern."
+  ],
+  "correct": "Zufügung eines Schadens durch Amputation eines Körperteils, wenn dadurch das Leben des Tieres gerettet wird."
+},
+{
+  "id": 29,
+  "question": "Was kann ein vernünftiger Grund sein, Tieren Leiden zuzufügen?",
+  "answers": [
+    "Zufügung von Leiden durch Vergesellschaftung mit Tieren anderer Arten.",
+    "Zufügung von Leiden durch zeitlich begrenzte unzureichende Klimagestaltung bei vorübergehender Haltung.",
+    "Zufügung von unvermeidbaren Leiden bei notwendigen Transporten."
+  ],
+  "correct": "Zufügung von Leiden durch Vergesellschaftung mit Tieren anderer Arten."
+},
+{
+  "id": 30,
+  "question": "Was kann ein vernünftiger Grund sein, Tieren Schmerzen zuzufügen?",
+  "answers": [
+    "Zufügung unvermeidbarer Schmerzen bei der Nottötung eines Tieres.",
+    "Zufügung geringfügiger Schmerzen bei der Zur-Schau-Stellung von Tieren.",
+    "Zufügung erheblicher Schmerzen, um ein Tier für bestimmte Zwecke auszubilden."
+  ],
+  "correct": "Zufügung unvermeidbarer Schmerzen bei der Nottötung eines Tieres."
+},
+{
+  "id": 31,
+  "question": "Was kann ein vernünftiger Grund sein, Tieren Leiden zuzufügen?",
+  "answers": [
+    "Zufügung von Leiden durch Einschränkung der erforderlichen Fütterungsmengen, weil dies zur Genesung von einer Krankheit unerlässlich ist.",
+    "Zufügung von Leiden durch Einschränkung der erforderlichen Fütterungsmengen, weil die Kosten reduziert werden müssen.",
+    "Zufügung von Leiden wegen Verlängerung der Fütterungsintervalle in der Urlaubszeit."
+  ],
+  "correct": "Zufügung von Leiden durch Einschränkung der erforderlichen Fütterungsmengen, weil die Kosten reduziert werden müssen."
+}
 ]
+
