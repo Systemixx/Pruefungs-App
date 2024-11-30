@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "Was unterscheidet den Tierschutz vom Artenschutz?",
+    "answers": [
+      "Es gibt keinen Unterschied.",
+      "Der Tierschutz soll das Einzeltier vor Schmerzen, Leiden oder Schäden bewahren, der Artenschutz soll Tierarten vor dem Aussterben bewahren.",
+      "Der Artenschutz soll wildlebende Tiere, der Tierschutz domestizierte Tiere vor Schmerzen, Leiden oder Schäden bewahren."
+    ],
+    "correct": "Der Tierschutz soll das Einzeltier vor Schmerzen, Leiden oder Schäden bewahren, der Artenschutz soll Tierarten vor dem Aussterben bewahren."
+  },
+  {
+    "id": 2,
+    "question": "Ab welchem Lebensjahr dürfen ohne Einwilligung der Erziehungsberechtigten Wirbeltiere an Jugendliche abgegeben werden?",
+    "answers": [
+      "Ab vollendetem 14. Lebensjahr.",
+      "Ab vollendetem 16. Lebensjahr.",
+      "Ab vollendetem 18. Lebensjahr."
+    ],
+    "correct": "Ab vollendetem 16. Lebensjahr."
+  },
+  {
+    "id": 3,
+    "question": "Wird durch das Tierschutzgesetz vorgeschrieben, dass jeder operative Eingriff an Reptilien oder Amphibien nur von einem Tierarzt durchgeführt werden darf?",
+    "answers": [
+      "Ja.",
+      "Nein, ein operativer Eingriff kann auch durch andere sachkundige Personen durchgeführt werden.",
+      "Nein, bei Tieren darf jeder, der es sich zutraut, einen operativen Eingriff vornehmen."
+    ],
+    "correct": "Ja."
+  },
+  {
+    "id": 4,
+    "question": "Was sind Tierversuche im Sinne des Tierschutzgesetzes (sie sind einem Genehmigungsvorbehalt durch die zuständige Behörde unterworfen)?",
+    "answers": [
+      "Jeder Umgang und jede Handlung an und mit Tieren, die eine Fragestellung zum Ausgangspunkt haben.",
+      "Sämtliche Versuche, von denen man weiß, dass sie mit Schmerzen, Leiden oder Schäden einhergehen.",
+      "Eingriffe oder Behandlungen an Tieren oder am Erbgut von Tieren zu Versuchszwecken, die mit Schmerzen, Leiden oder Schäden für die Tiere verbunden sein können."
+    ],
+    "correct": "Eingriffe oder Behandlungen an Tieren oder am Erbgut von Tieren zu Versuchszwecken, die mit Schmerzen, Leiden oder Schäden für die Tiere verbunden sein können."
+  },
+  {
+    "id": 5,
+    "question": "Welche der Eingriffe dürfen bei Reptilien oder Amphibien ohne (medikamentöse) Betäubung vorgenommen werden?",
+    "answers": [
+      "Spaltung tiefliegender Abszesse.",
+      "Muskelnähte nach Verletzungen.",
+      "Entfernung von Fremdkörpern aus der Maulhöhle."
+    ],
+    "correct": "Entfernung von Fremdkörpern aus der Maulhöhle."
+  },
+  {
+    "id": 6,
+    "question": "Welche der Eingriffe dürfen bei Reptilien oder Amphibien ohne (medikamentöse) Betäubung vorgenommen werden?",
+    "answers": [
+      "Blutentnahmen.",
+      "Operative Entfernung von Fremdkörpern aus dem Verdauungsapparat.",
+      "Operative Beseitigung eines Darmvorfalles bei Schlangen."
+    ],
+    "correct": "Blutentnahmen."
+  },
+  {
+    "id": 7,
+    "question": "Welche der Eingriffe dürfen bei Reptilien oder Amphibien ohne (medikamentöse) Betäubung vorgenommen werden?",
+    "answers": [
+      "Entfernung der Schwanzspitze bei Schlangen.",
+      "Entfernung von abgestorbenen Panzerteilen bei Schildkröten.",
+      "Hautnähte nach Verletzungen."
+    ],
+    "correct": "Entfernung von abgestorbenen Panzerteilen bei Schildkröten."
+  }
+]
